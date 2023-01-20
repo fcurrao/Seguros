@@ -74,7 +74,7 @@ function App() {
         <p>SioNo <select  id='9' className='inputs' >
         <option>Yes</option>
         <option>No</option>
-        </select></p>
+        </select></p> 
         <p>Pregunta X<input id='10' className='inputs'   /></p>
         <p>Pregunta <input id='11' className='inputs' /></p>
         <p>Pregunta <input id='12' className='inputs' /></p>
