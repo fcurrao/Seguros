@@ -1,14 +1,14 @@
-Aplicacion creada para Data Science.:
+# Aplicacion creada para Data Science.:
 
 ************************************************************************
-INFO:
+## INFO:
 Tecnologia utilizada: React JS
 
 ************************************************************************
 
 
 ************************************************************************
-PASOS PARA TRAERLA LOCAL
+## PASOS PARA TRAERLA LOCAL
 
 1)
 
