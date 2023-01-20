@@ -53,13 +53,13 @@ function App() {
 
   return (
     <div className="App">
-      <div className='divTitulo'>
+      <div className='divTitulo' >
         <h1 className="textoCentrado titulo" style={{ color:'blue' }}>CONSULTAS SEGUROS</h1>
 
         <h2 className="textoCentrado subtitulo">App</h2>
         <h3 className="textoCentrado subtitulo">Por favor ingresar los datos correspondientes</h3>
       </div>
-      <div className='divInput'>
+      <div className='divInput' style={{ padding:'20px', paddingBottom:'100px' }}>
         <p>Nombre <input id='1' className='inputs'  /></p>
         <p>Apellido <input id='2' className='inputs'   /></p>
         <p>Edad <input id='3'  type='number'className='inputs' /></p>
