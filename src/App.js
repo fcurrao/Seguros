@@ -54,7 +54,7 @@ function App() {
   return (
     <div className="App">
       <div className='divTitulo'>
-        <h1 className="textoCentrado titulo">CONSULTAS SEGUROS</h1>
+        <h1 className="textoCentrado titulo" style={{ color:'blue' }}>CONSULTAS SEGUROS</h1>
 
         <h2 className="textoCentrado subtitulo">App</h2>
         <h3 className="textoCentrado subtitulo">Por favor ingresar los datos correspondientes</h3>
@@ -80,7 +80,7 @@ function App() {
         <p>Pregunta <input id='12' className='inputs' /></p>
         <p>Pregunta <input id='13' className='inputs' /></p>
         <p>Pregunta <input id='14' className='inputs' /></p>
-        <button onClick={()=>funcionEnviarDatos()}>Enviar datos</button>
+        <button style={{cursor: 'pointer', fontSize:'16px', padding:'10px', backgroundColor:'blue', color:'white' }} onClick={()=>funcionEnviarDatos()}>Enviar datos</button>
       </div>
 
 
